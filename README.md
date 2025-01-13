@@ -3,16 +3,12 @@ An automatically generated lexicon of multiword expressions in Irish, collected 
 
 ## json file
 
-A large collection of MWEs automatically extracted from Líonra Séimeantach na Gaeilge (The Irish Language Semantic Network) and Gluais Tí Pota Focal.
+A large collection (17,592) of MWEs automatically extracted from Líonra Séimeantach na Gaeilge (The Irish Language Semantic Network), Gluais Tí Pota Focal, and An Sruth.
 
-POS information and English translations, where included in the lexical resource, are included. 
-
-## txt file
-
-A list of Irish idioms, multiword expressions, and phrases from An Sruth.
+POS information and English translations, where included in the lexical resource, are included. Broad POS tags were added using UDPipe. 
 
 
-Both of these resources are useful as training data, as part of a pre-processing pipeline for tasks such as parsing, and as a database for linguistic research.
+This resource is useful as training data, as part of a pre-processing pipeline for tasks such as parsing, and as a database for linguistic research.
 
 
 ## Links to resources used
